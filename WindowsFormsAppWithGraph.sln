@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27729.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppWithGraph", "WindowsFormsAppWithGraph\WindowsFormsAppWithGraph.csproj", "{E4CA3967-3AF9-4B82-8E4E-29DD09E33047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CA3967-3AF9-4B82-8E4E-29DD09E33047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CA3967-3AF9-4B82-8E4E-29DD09E33047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CA3967-3AF9-4B82-8E4E-29DD09E33047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CA3967-3AF9-4B82-8E4E-29DD09E33047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B164FC92-4EA7-45CC-A7AB-8DFEB4F32472}
+	EndGlobalSection
+EndGlobal
